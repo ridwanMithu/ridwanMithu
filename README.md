@@ -3,7 +3,7 @@
 ## Hey!!! I am Ridwan.
 ![A developer who wanders badge](https://img.shields.io/badge/A_developer-Who_wanders-blue)
 
-<a href="https://app.daily.dev/ridwanmithu"><img src="https://api.daily.dev/devcards/v2/u9wOVvA50VeQOgZiMPGae.png?type=wide&r=omj" width="652" alt="Ridwan  Ahmed's Dev Card"/></a>
+<a href="https://app.daily.dev/ridwanmithu"><img src="./devcard.png" width="900" alt="Ridwan  Ahmed's Dev Card"/></a>
 
 ## My Tech Stacks
 
