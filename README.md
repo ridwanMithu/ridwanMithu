@@ -15,6 +15,7 @@ Planning to learn following tools ASAP. I am always open if you have advice to g
 
 [![My Skills](https://skillicons.dev/icons?i=next,threejs,postgresql,docker,python,typescript,nest,rails,rust)](https://skillicons.dev)
 **
+
 Yes, I have confusing learning targets. But this is due to my lack of experience. I will focus on things that will add more value to my career as a developer as I keep going. Just listing things for now so that I can easily pick things when I need.
 
 **
